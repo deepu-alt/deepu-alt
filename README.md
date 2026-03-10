@@ -111,7 +111,6 @@ Btech 3rd year AIML student with strong ambition to become an AI Engineer.
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/deepu-alt/deepu-alt/blob/output/github-contribution-grid-snake.svg)
-
 </p>
 
 ---
