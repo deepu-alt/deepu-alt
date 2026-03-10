@@ -83,18 +83,6 @@ Btech 3rd year AIML student with strong ambition to become an AI Engineer.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepu-alt&show_icons=true&theme=tokyonight" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepu-alt&layout=compact&theme=tokyonight" height="170">
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
