@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-Btech 3rd year AIML student with strong ambition to become an AI Engineer.
+Btech 4rd year AIML student with strong ambition to become an AI Engineer.
 
 ---
 
